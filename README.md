@@ -109,3 +109,7 @@ Index ranges by group: **0–11 lower body** (6 DoF per leg), **12–14 waist**,
    pip install mujoco
    python -m mujoco.viewer --mjcf=vita_boy/xml/vita_boy_29dof_v1.xml
    ```
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
